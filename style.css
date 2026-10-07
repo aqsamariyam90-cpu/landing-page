@@ -277,7 +277,8 @@ footer {
 }
 @media (max-width: 600px) {
 
-    /* Hide navigation links on small screens */
+     /* Hide navigation links on small screens */
+     
     .nav-links {
         display: none;
     }
